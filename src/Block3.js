@@ -4,7 +4,7 @@ export default function Block3() {
   return (
     <div>
       <div className="Block3">
-        <p>Hello Block3 Par</p>
+        <p className="text-danger">Hello Block3 Par</p>
       </div>
     </div>
   );
